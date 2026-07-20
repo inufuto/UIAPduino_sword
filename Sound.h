@@ -1,0 +1,12 @@
+extern void InitSound();
+extern void SoundHandler();
+
+extern void Sound_Loose();
+extern void Sound_Hit();
+extern void Sound_Attack();
+extern void Sound_Up();
+extern void Sound_Start();
+extern void Sound_Clear();
+extern void Sound_GameOver();
+extern void StartBGM();
+extern void StopBGM();
